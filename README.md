@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:07111f,50:0b2a36,100:06b6d4&height=220&section=header&text=ROHIT%20MANKOTIA&fontSize=48&fontColor=ecfeff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 </div>
@@ -71,5 +70,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:06b6d4,50:0b2a36,100:07111f&height=110&section=footer" width="100%" alt="Footer" />
 </div>
+
 
 
