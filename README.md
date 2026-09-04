@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=rajputrohitmankotia1&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Rohit's GitHub stats" height="165"/> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rajputrohitmankotia1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=rajputrohitmankotia1&theme=dark&hide_border=false" alt="GitHub streak stats"/> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajputrohitmankotia1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rajputrohitmankotia1&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
